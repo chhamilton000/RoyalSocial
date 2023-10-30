@@ -85,7 +85,6 @@
 		AD29D6702AE0882900F1CCCE /* ResetPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD29D61F2AE0882900F1CCCE /* ResetPasswordView.swift */; };
 		AD29D6712AE0882900F1CCCE /* AddEmailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD29D6202AE0882900F1CCCE /* AddEmailView.swift */; };
 		AD29D6722AE0882900F1CCCE /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD29D6222AE0882900F1CCCE /* AuthService.swift */; };
-		AD29D6732AE0882900F1CCCE /* AuthenticationFormProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD29D6242AE0882900F1CCCE /* AuthenticationFormProtocol.swift */; };
 		AD29D6742AE0882900F1CCCE /* NotificationCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD29D6272AE0882900F1CCCE /* NotificationCellViewModel.swift */; };
 		AD29D6752AE0882900F1CCCE /* NotificationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD29D6282AE0882900F1CCCE /* NotificationsViewModel.swift */; };
 		AD29D6762AE0882900F1CCCE /* Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD29D62A2AE0882900F1CCCE /* Notification.swift */; };
@@ -184,7 +183,6 @@
 		AD29D61F2AE0882900F1CCCE /* ResetPasswordView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResetPasswordView.swift; sourceTree = "<group>"; };
 		AD29D6202AE0882900F1CCCE /* AddEmailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddEmailView.swift; sourceTree = "<group>"; };
 		AD29D6222AE0882900F1CCCE /* AuthService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
-		AD29D6242AE0882900F1CCCE /* AuthenticationFormProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthenticationFormProtocol.swift; sourceTree = "<group>"; };
 		AD29D6272AE0882900F1CCCE /* NotificationCellViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationCellViewModel.swift; sourceTree = "<group>"; };
 		AD29D6282AE0882900F1CCCE /* NotificationsViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationsViewModel.swift; sourceTree = "<group>"; };
 		AD29D62A2AE0882900F1CCCE /* Notification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Notification.swift; sourceTree = "<group>"; };
@@ -632,7 +630,6 @@
 		AD29D6232AE0882900F1CCCE /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
-				AD29D6242AE0882900F1CCCE /* AuthenticationFormProtocol.swift */,
 			);
 			path = Protocols;
 			sourceTree = "<group>";
@@ -975,7 +972,6 @@
 				AD29D6422AE0882900F1CCCE /* CommentCell.swift in Sources */,
 				AD29D6482AE0882900F1CCCE /* NewDirectMessageView.swift in Sources */,
 				AD29D6382AE0882900F1CCCE /* ImagePicker.swift in Sources */,
-				AD29D6732AE0882900F1CCCE /* AuthenticationFormProtocol.swift in Sources */,
 				AD29D65D2AE0882900F1CCCE /* HeartAnimation.swift in Sources */,
 				AD29D6742AE0882900F1CCCE /* NotificationCellViewModel.swift in Sources */,
 				AD29D6772AE0882900F1CCCE /* NotificationType.swift in Sources */,

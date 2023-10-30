@@ -1,6 +1,6 @@
 //
 //  CreatePasswordView.swift
-//  InstagramReverseEngineered
+//  RoyalSocial
 //
 //  Created by Caley Hamilton on 9/28/23.
 //

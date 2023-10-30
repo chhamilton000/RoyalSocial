@@ -1,6 +1,6 @@
 //
 //  AuthService.swift
-//  InstagramReverseEngineered
+//  RoyalSocial
 //
 //  Created by Caley Hamilton on 9/29/23.
 //
