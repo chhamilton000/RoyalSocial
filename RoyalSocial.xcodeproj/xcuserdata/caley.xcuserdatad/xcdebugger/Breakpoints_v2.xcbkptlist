@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B0CBA138-02E8-4DFC-9474-3092B190CBD2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E65B3545-C438-4FA0-8369-9ACF19A66276"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/Feed/View/FeedCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E65B3545-C438-4FA0-8369-9ACF19A66276 - 26bdceffbf91da3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.TupleView&lt;(RoyalSocial.CircularProfileImageView, SwiftUI.NavigationLink&lt;SwiftUI.Text, Swift.Never&gt;, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;SwiftUI.ModifiedContent&lt;SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, RoyalSocial.DisfavorableActionForPostModule&gt;, RoyalSocial.UserActionForTheirOwnPostModule&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in RoyalSocial.FeedCell.body.getter : some"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/Feed/View/FeedCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "E65B3545-C438-4FA0-8369-9ACF19A66276 - d22ad888726cfb7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(RoyalSocial.CircularProfileImageView, SwiftUI.NavigationLink&lt;SwiftUI.Text, Swift.Never&gt;, SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in RoyalSocial.FeedCell.body.getter : some"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/Feed/View/FeedCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9446825-C461-4D79-A4B1-488497863B0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/Feed/View/FeedCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D9446825-C461-4D79-A4B1-488497863B0D - 930b2470134dea55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(RoyalSocial.CircularProfileImageView, SwiftUI.NavigationLink&lt;SwiftUI.Text, Swift.Never&gt;, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;SwiftUI.ModifiedContent&lt;SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, RoyalSocial.DisfavorableActionForPostModule&gt;, RoyalSocial.UserActionForTheirOwnPostModule&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in RoyalSocial.FeedCell.body.getter : some"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/Feed/View/FeedCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "D9446825-C461-4D79-A4B1-488497863B0D - 184f26a0b60c526a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(RoyalSocial.CircularProfileImageView, SwiftUI.NavigationLink&lt;SwiftUI.Text, Swift.Never&gt;, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;SwiftUI.ModifiedContent&lt;SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, RoyalSocial.DisfavorableActionForPostModule&gt;, RoyalSocial.UserActionForTheirOwnPostModule&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.alert&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(_: SwiftUI.LocalizedStringKey, isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, actions: () -&gt; &#x3c4;_1_0, message: () -&gt; &#x3c4;_1_1) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in RoyalSocial.FeedCell.body.getter : some"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/Feed/View/FeedCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "D9446825-C461-4D79-A4B1-488497863B0D - d22ad888726cfb7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(RoyalSocial.CircularProfileImageView, SwiftUI.NavigationLink&lt;SwiftUI.Text, Swift.Never&gt;, SwiftUI.Spacer, SwiftUI.Button&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, Swift.Never&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in RoyalSocial.FeedCell.body.getter : some"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/Feed/View/FeedCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C88271F0-1873-48D0-80C3-8808E78A916D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/Profile/Settings/Views/SettingsRowView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51A4E8DA-4886-42FE-9D4A-AA982B7F591A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(currentUser:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51A4E8DA-4886-42FE-9D4A-AA982B7F591A - ceb5367709031ff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RoyalSocial.BlockedUsersViewModel.init(currentUser: Swift.Optional&lt;RoyalSocial.User&gt;) -&gt; RoyalSocial.BlockedUsersViewModel"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "51A4E8DA-4886-42FE-9D4A-AA982B7F591A - ceb5367709031ff1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RoyalSocial.BlockedUsersViewModel.init(currentUser: Swift.Optional&lt;RoyalSocial.User&gt;) -&gt; RoyalSocial.BlockedUsersViewModel"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D44F0B4-530D-41AD-89FE-4D941199F58E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(currentUser:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D44F0B4-530D-41AD-89FE-4D941199F58E - e2c8083d2ede5b90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RoyalSocial.BlockedUsersViewModel.init(currentUser: Swift.Optional&lt;RoyalSocial.User&gt;) -&gt; RoyalSocial.BlockedUsersViewModel"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "3D44F0B4-530D-41AD-89FE-4D941199F58E - abe6359f844cfaf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RoyalSocial.BlockedUsersViewModel.init(currentUser: Swift.Optional&lt;RoyalSocial.User&gt;) -&gt; RoyalSocial.BlockedUsersViewModel"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3D44F0B4-530D-41AD-89FE-4D941199F58E - 79ed1d9320a38f9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RoyalSocial.BlockedUsersViewModel.init(currentUser: Swift.Optional&lt;RoyalSocial.User&gt;) -&gt; RoyalSocial.BlockedUsersViewModel"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "3D44F0B4-530D-41AD-89FE-4D941199F58E - b5039bded969959b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RoyalSocial.BlockedUsersViewModel.init(currentUser: Swift.Optional&lt;RoyalSocial.User&gt;) -&gt; RoyalSocial.BlockedUsersViewModel"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC782C1B-33BD-488C-9EE1-4CAB26D0F908"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/BlockedUsers/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(currentUser:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A97935C7-3B09-47AC-AEC6-8DD193511568"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchBlockedUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDB0AEB7-5E57-40A8-AC4F-FC8BAA55E7F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchBlockedUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DDB0AEB7-5E57-40A8-AC4F-FC8BAA55E7F9 - c51a95217fe3384e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RoyalSocial.BlockedUsersViewModel.fetchBlockedUsers() async throws -&gt; ()"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "DDB0AEB7-5E57-40A8-AC4F-FC8BAA55E7F9 - 3b2cf80668f75e4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for RoyalSocial.BlockedUsersViewModel.fetchBlockedUsers() async throws -&gt; ()"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B838AF9-FE81-4965-AB88-DF337E2AFE0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchBlockedUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C0BFB8D-4428-4060-89AE-919DD40E9E5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchBlockedUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C0BFB8D-4428-4060-89AE-919DD40E9E5B - c51a95217fe3380c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RoyalSocial.BlockedUsersViewModel.fetchBlockedUsers() async throws -&gt; ()"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "0C0BFB8D-4428-4060-89AE-919DD40E9E5B - dd8f7f8137bc5502"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRQueryDocumentSnapshot) throws -&gt; Swift.Optional&lt;RoyalSocial.BlockedUser&gt; in RoyalSocial.BlockedUsersViewModel.fetchBlockedUsers() async throws -&gt; ()"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2773C4E-8615-421A-ABE2-5E4A619B2585"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Source/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "unblockUser(currentUid:otherUid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94357380-FFFA-499D-BA98-DB907380E422"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RoyalSocial/Source/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "unblockUser(currentUid:otherUid:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "94357380-FFFA-499D-BA98-DB907380E422 - 33758bec9d81ab97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RoyalSocial.BlockedUsersViewModel.unblockUser(currentUid: Swift.String, otherUid: Swift.String) async -&gt; ()"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Source/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "94357380-FFFA-499D-BA98-DB907380E422 - cb0cbd7a3ee2163c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for RoyalSocial.BlockedUsersViewModel.unblockUser(currentUid: Swift.String, otherUid: Swift.String) async -&gt; ()"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Source/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "94357380-FFFA-499D-BA98-DB907380E422 - 9bc32971e6b68626"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for RoyalSocial.BlockedUsersViewModel.unblockUser(currentUid: Swift.String, otherUid: Swift.String) async -&gt; ()"
+                  moduleName = "RoyalSocial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/caley/Desktop/_Completed%20App%20Chartofylakio/RoyalSocial/RoyalSocial/Source/Components/BlockedUsers/ViewModel/BlockedUsersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
